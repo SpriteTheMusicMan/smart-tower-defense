@@ -1,0 +1,43 @@
+Complex Enemy Ai System
+	2 Ai Layers
+		Main Layer
+			Controls General Path of Individuals
+				can provide situation optional routes
+			Controls types that get sent out
+			Gets feedback from death locations and damage areas
+			Cant "see" the board
+			Reward-response system
+			Gets points for distance traveled by indivual AI
+			uses points to unlock ai types and quantities
+
+		Individual Layer
+			Basic Pathfinding
+			follows path defined by main layer
+				has the ability to see a change in layout from previous wave
+					possible route change if allowed by main layer
+Basic Turret Ai System
+	Point and Shoot system
+	User Configurable Weighted target system with priorities
+		First-Last
+		Strongest-Weakest
+		Slowest-Fastest
+User
+	Can control a single turret in first person view
+	Turrets can be sold for % of cost but cannot be moved
+	User vehicles and small arms can be sold for 0% of cost but can be moved
+	All towers upgradable
+		# of upgrade routes and tiers are tower dependant
+	Placement
+		Free place system
+			Turrets/units on roadways can be damaged/destryed
+			all units have a placement boandary to prevent over stacking a unit in one area
+			some turrets can house units for increased effects
+Multiplayer
+	Attack/Defend 2p
+		One player plays as normal
+		Other player playes as main layer ai
+	Co-op 2-8p
+		Multiple players on one map
+		Each player has own money system
+		Ai stronger based on number of players
+	
