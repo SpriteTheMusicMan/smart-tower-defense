@@ -1,0 +1,112 @@
+Soldiers
+	All Moveable - no movement cost
+	Light Trooper
+		AR type weapon
+		Medium Damage
+		Medium ROF
+		Medium Accuracy
+		Meduim Range
+		Meduim Sustain
+	Light Gunner
+		LMG Type Weapon
+		Medium Damage
+		Medium ROF
+		Low Accuracy
+		Medium Range
+		High Sustain
+	Heavy Gunner
+		High Damage
+		Low ROF
+		Low Accuracy
+		Long Range
+		High Sustain
+		+Light Vehicle Damage
+		+Light AA
+		-Stationary--Requires Tower
+	Sniper
+		Sniper Rifle
+		High Damage
+		Very Low ROF
+		Very High Accuracy
+		Very Long Range
+		Low Sustain
+	DMR/Scout
+		Semi Auto Rifle
+		Medium-High Damage
+		Low ROF
+		High Accuracty
+		Long Range
+		Low Sustain
+	CQC Trooper
+		SMG Weapon
+			Low Damage
+			High ROF
+			Low Accuracy
+			Low Range
+			Medium Sustain
+		Shotgun
+			High Damge
+			Splash Accuracy/Damage
+			Low ROF
+			Low Range
+			Medium Sustain
+	Rocket Trooper
+		Rocket Launcher
+		Very High Damage
+		Medium Splash Damage
+		Medium Vehicle Damage
+		Upgrade Chain for AI AA or AV
+		Very Low ROF
+		Medium Accuracy
+		Low Sustain
+	Command
+		+Accuracy to nearby
+		+Sustain to nearby
+		+Faster Movement
+
+Armor
+	Moveable- Uses Fuel 
+	Tank
+		AA
+			High ROF
+			Low Damage
+			Flak Detonation
+			Optional Rocket Pod
+		AI
+			Medium ROF
+			Medium Damage
+			Splash
+		AV
+			Low ROF
+			High Damage
+			No Splash
+	APC
+		Moves/Stores troops
+		Faster than ground movement
+		Small Arms
+Towers
+	Heavy Gun tower
+		Requires gunner
+	Missile Pod
+		AA or AV
+	Sniper tower
+		+Range
+	Baracade
+		+Defense
+		Can be placed on road(Forces Ai units to change path/funnel units- cannot block path completly)
+	Comms
+		All Units + Range
+	Ammo Depot
+		-Reload time nearby units
+		-Restock time, nearbyt
+	Field Hospital
+		-Heal Cost
+		-Heal Time
+	Field Mechanic
+		-Repair Time
+		-Repair Cost
+
+
+
+
+	
