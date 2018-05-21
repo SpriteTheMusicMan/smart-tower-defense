@@ -38,6 +38,16 @@ Multiplayer
 		Other player playes as main layer ai
 	Co-op 2-8p
 		Multiple players on one map
-		Each player has own money system
-		Ai stronger based on number of players
+		(unsure)Each player has own money system
+			Ai stronger based on number of players
+		(unsure)Shared Player Money/Resources
+			Ai Same as Single Player
+	Built In Text Chat and Voice Chat System
+
+
+AI Movement
+	(unsure)Free Movement vs Path System
+	(unsure)Pre Generated Maps vs Prociural Generated
+	(unsure)AI Can attack towers in path
+
 	
